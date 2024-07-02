@@ -58,5 +58,4 @@ Merci de lire les fichiers :
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 ## Modification pour simuler le conflit
-
-Premiere modification pour simuler le conflit
+Modification sur l'interface web de Github
